@@ -63,15 +63,7 @@ body {
     text-align: center;
     padding: 40px 20px;
 }
-{
-    flex: 1;
-    height: 360px;
-    border-radius: 25px 25px 25px 25px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-}
+
 
 .additional-section h2 {
     font-size: 24px;
